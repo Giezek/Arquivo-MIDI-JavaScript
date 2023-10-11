@@ -18,9 +18,9 @@ document.querySelector('.tecla_splash').onclick = tocaSomSplash;
 function tocaSomSplash () {
     document.querySelector('#som_tecla_splash').play();
 }
-document.querySelector('.tecla_pom').onclick = tocaSomPom;
-function tocaSomPom () {
-    document.querySelector('#som_tecla_pom').play();
+document.querySelector('.tecla_toim').onclick = tocaSomtoim;
+function tocaSomtoim () {
+    document.querySelector('#som_tecla_toim').play();
 }
 document.querySelector('.tecla_pom').onclick = tocaSomPom;
 function tocaSomPom () {
