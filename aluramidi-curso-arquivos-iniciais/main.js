@@ -22,9 +22,9 @@ document.querySelector('.tecla_toim').onclick = tocaSomtoim;
 function tocaSomtoim () {
     document.querySelector('#som_tecla_toim').play();
 }
-document.querySelector('.tecla_pom').onclick = tocaSomPom;
-function tocaSomPom () {
-    document.querySelector('#som_tecla_pom').play();
+document.querySelector('.tecla_psh').onclick = tocaSompsh;
+function tocaSompsh () {
+    document.querySelector('#som_tecla_psh').play();
 }
 document.querySelector('.tecla_pom').onclick = tocaSomPom;
 function tocaSomPom () {
