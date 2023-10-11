@@ -1,4 +1,4 @@
-alert('Bom dia, 2 º D!');
+alert('Bom dia, 2 º C!');
 function tocaSomPom () {
     document.querySelector('#som_tecla_pom').play();
 }
