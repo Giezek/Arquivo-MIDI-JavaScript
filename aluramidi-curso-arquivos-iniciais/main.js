@@ -26,9 +26,9 @@ document.querySelector('.tecla_psh').onclick = tocaSompsh;
 function tocaSompsh () {
     document.querySelector('#som_tecla_psh').play();
 }
-document.querySelector('.tecla_pom').onclick = tocaSomPom;
-function tocaSomPom () {
-    document.querySelector('#som_tecla_pom').play();
+document.querySelector('.tecla_tic').onclick = tocaSomtic;
+function tocaSomtic () {
+    document.querySelector('#som_tecla_tic').play();
 }
 document.querySelector('.tecla_pom').onclick = tocaSomPom;
 function tocaSomPom () {
